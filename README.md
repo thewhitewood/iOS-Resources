@@ -27,4 +27,4 @@ Books I have read and recommend, in no particular order.
 * [Practical Combine - Donny Wals](https://practicalcombine.com)
 * [Swift Design Patterns - Paul Hudson](https://www.hackingwithswift.com/store/swift-design-patterns)
 * [Testing Swift - Paul Hudson](https://www.hackingwithswift.com/store/testing-swift)
-* [Hacking with WatchOS - Paul Hudson](https://www.hackingwithswift.com/store/hacking-with-watchos)
+* [WatchOS by Tutorials - Ray Wenderlich](https://store.raywenderlich.com/products/watchos-by-tutorials)
