@@ -5,6 +5,7 @@ A pin board of useful iOS resources
 * [Project Setup](#Project-Setup)
 * [Concurrency](#Concurrency)
 * [Security](#Security)
+* [Recommended Books](#Recommended-Books)
 
 ### Project Setup
 
@@ -18,3 +19,12 @@ A pin board of useful iOS resources
 ### Security
 
 * [Secret Management on iOS - NSHipster](https://nshipster.com/secrets/)
+
+### Recommended Books
+
+Books I have read and recommend, in no particular order.
+
+* [Practical Combine - Donny Wals](https://practicalcombine.com)
+* [Swift Design Patterns - Paul Hudson](https://www.hackingwithswift.com/store/swift-design-patterns)
+* [Testing Swift - Paul Hudson](https://www.hackingwithswift.com/store/testing-swift)
+* [Hacking with WatchOS - Paul Hudson](https://www.hackingwithswift.com/store/hacking-with-watchos)
