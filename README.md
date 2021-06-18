@@ -6,6 +6,7 @@ A pin board of useful iOS resources
 * [Concurrency](#Concurrency)
 * [Security](#Security)
 * [Recommended Books](#Recommended-Books)
+* [Miscellaneous](#Miscellaneous)
 
 ### Project Setup
 
@@ -28,3 +29,7 @@ Books I have read and recommend, in no particular order.
 * [Swift Design Patterns - Paul Hudson](https://www.hackingwithswift.com/store/swift-design-patterns)
 * [Testing Swift - Paul Hudson](https://www.hackingwithswift.com/store/testing-swift)
 * [WatchOS by Tutorials - Ray Wenderlich](https://store.raywenderlich.com/products/watchos-by-tutorials)
+
+### Miscellaneous
+
+* [iOS Skills Matrix - Bohdan Orlov](https://github.com/BohdanOrlov/ios-skills-matrix)
