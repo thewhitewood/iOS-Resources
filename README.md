@@ -44,3 +44,4 @@ Books I have read and recommend, in no particular order.
 ### Miscellaneous
 
 * [iOS Skills Matrix - Bohdan Orlov](https://github.com/BohdanOrlov/ios-skills-matrix)
+* [SwiftUI Property Wrappers - Donny Wals](https://swiftuipropertywrappers.com)
