@@ -38,6 +38,7 @@ Books I have read and recommend, in no particular order.
 ### Recommended Newsletters
 
 * [Hacking with Swift](https://www.hackingwithswift.com/newsletter)
+* [iOS Code Review](https://ioscodereview.com)
 * [iOS Dev Weekly](https://iosdevweekly.com)
 * [SwiftLee](https://www.avanderlee.com/swiftlee-weekly)
 
