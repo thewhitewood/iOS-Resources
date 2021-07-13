@@ -40,6 +40,7 @@ Books I have read and recommend, in no particular order.
 * [Hacking with Swift](https://www.hackingwithswift.com/newsletter)
 * [iOS Code Review](https://ioscodereview.com)
 * [iOS Dev Weekly](https://iosdevweekly.com)
+* [Quality Coding](https://qualitycoding.org/blog/)
 * [SwiftLee](https://www.avanderlee.com/swiftlee-weekly)
 
 ### Miscellaneous
