@@ -3,6 +3,7 @@
 A pin board of iOS resources I've found to be userful
 
 * [Project Setup](#Project-Setup)
+* [Accessibility](#Accessibility)
 * [Concurrency](#Concurrency)
 * [Security](#Security)
 * [Recommended Books](#Recommended-Books)
@@ -13,6 +14,10 @@ A pin board of iOS resources I've found to be userful
 
 * [Xcode Build Configuration Files - NSHipster](https://nshipster.com/xcconfig/)
 * [Let's Set Up Your iOS Environments](https://thoughtbot.com/blog/let-s-setup-your-ios-environments)
+
+### Accessibility
+
+* [Restricting Dynamic Type Sizes - UseYourLoaf](https://useyourloaf.com/blog/restricting-dynamic-type-sizes/)
 
 ### Concurrency
 
