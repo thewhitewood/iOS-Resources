@@ -42,7 +42,6 @@ Books I have read and recommend, in no particular order.
 * [Testing Swift - Paul Hudson](https://www.hackingwithswift.com/store/testing-swift)
 * [WatchOS by Tutorials - Ray Wenderlich](https://store.raywenderlich.com/products/watchos-by-tutorials)
 
-
 ### Recommended Newsletters
 
 * [Hacking with Swift](https://www.hackingwithswift.com/newsletter)
@@ -53,5 +52,6 @@ Books I have read and recommend, in no particular order.
 
 ### Miscellaneous
 
+* [Apple HIG - Typography](https://developer.apple.com/design/human-interface-guidelines/foundations/typography/)
 * [iOS Skills Matrix - Bohdan Orlov](https://github.com/BohdanOrlov/ios-skills-matrix)
 * [SwiftUI Property Wrappers - Donny Wals](https://swiftuipropertywrappers.com)
